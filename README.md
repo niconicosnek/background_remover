@@ -2,13 +2,9 @@
 
 A simple desktop app to remove the background from images using `rembg`, with a graphical interface for file selection or drag-and-drop. The processed image is saved in the **same folder** as the original file, named `output.png`, `output2.png`, etc.
 
----
-
 ## Requirements
 
 * Python 3.8 or higher
-
----
 
 ## Installation
 
@@ -32,8 +28,6 @@ If you're on Linux and get errors related to Tkinter, install it with:
   sudo pacman -S tk
   ```
 
----
-
 ## How to Run
 
 Run the application:
@@ -48,8 +42,6 @@ A window will open. You can:
 * Or **drag and drop** an image into the highlighted area
 
 The image with the background removed will be saved in the same folder as the original image.
-
----
 
 ## Supported Formats
 
