@@ -18,14 +18,6 @@ Install the required libraries:
 pip install rembg pillow tkinterdnd2 onnxruntime
 ```
 
-> Use `onnxruntime-gpu` instead of `onnxruntime` if you have a compatible GPU:
-
-```bash
-pip install onnxruntime-gpu
-```
-
-> Do not install both `onnxruntime` and `onnxruntime-gpu`.
-
 If you're on Linux and get errors related to Tkinter, install it with:
 
 * **Debian/Ubuntu:**
