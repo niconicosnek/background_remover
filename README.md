@@ -49,7 +49,3 @@ The image with the background removed will be saved in the same folder as the or
 * JPG / JPEG
 * WEBP
 * BMP
-
----
-
-Let me know if you want this exported as a `README.md` file.
